@@ -1,4 +1,4 @@
-# use github pages:
+# using github pages:
 * make sure the repo is public
 * upload the html,css files (index.html not in any folder)
 * settings
